@@ -1,0 +1,22 @@
+{
+  "name": "TSCalendar",
+  "version": "0.1.0",
+  "summary": "A short description of TSCalendar.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/TSCalendar",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "TaeSu": "fugitive81@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/TSCalendar.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TSCalendar/Classes/**/*"
+}
